@@ -1,20 +1,21 @@
 .column {
     float:left;
     width: 33.33%;
-    
+    height: 52%;
 }
 
 .row {
-    margin-top: 40px;
-    margin-bottom: 110px;
-    margin-left: 300px;
-    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 300px;
   }
 
   h1 {
 
     text-align: center;
     color: rgb(197, 15, 15);  
+    font-size: 20px;
 }
 
 
@@ -22,8 +23,9 @@ p {
     color: rgb(0, 0, 0);
    
   margin-left: 15px;
-  margin-right: 115px;
-  margin-bottom: 40px;
+  margin-right: 65px;
+  
+  
   text-align: justify;
   
 }
